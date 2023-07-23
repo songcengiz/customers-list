@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customers-list/static/css/main.4e21876d.css",
+    "main.js": "/customers-list/static/js/main.c0a6ff37.js",
+    "index.html": "/customers-list/index.html",
+    "main.4e21876d.css.map": "/customers-list/static/css/main.4e21876d.css.map",
+    "main.c0a6ff37.js.map": "/customers-list/static/js/main.c0a6ff37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e21876d.css",
+    "static/js/main.c0a6ff37.js"
+  ]
+}
